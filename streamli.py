@@ -1,7 +1,6 @@
 import os
 import streamlit as st
 from audio_recorder_streamlit import audio_recorder
-import pyaudio
 import numpy as np
 import speech_recognition as sr
 import pyttsx3
