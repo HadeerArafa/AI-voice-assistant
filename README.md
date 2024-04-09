@@ -1,8 +1,6 @@
 # AI Vioce Assistant
 
 
-**Demo** : https://ai-voice-assistant.streamlit.app/
-
 - just enter you  api key and start the conversation 😁
 
 **Video for the AI in action : **
