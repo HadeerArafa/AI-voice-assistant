@@ -43,8 +43,6 @@ layout.show_header()
 user_api_key = utils.load_api_key()
 os.environ["GOOGLE_API_KEY"] = user_api_key
 
-# gemini = "AIzaSyCa1L4XEt9IlH_63XMobDypukzbjhJewOk"
-
 
 prompt = """You are a chatbot having a conversation with a human your name is Modues ETP , subject should be about Indian states, culture , etc note your answers should be correct and short to the point , also you should consider the emotions of the user.
 here is the user question now : {question}
